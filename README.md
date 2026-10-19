@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hallefy – Portfólio (Next.js)
 
-## Getting Started
+Portfólio estático migrado do WordPress/Elementor (`hallefy.com.br`) para Next.js, pronto para deploy na Vercel.
 
-First, run the development server:
+## Stack
+
+- Next.js 15 (App Router)
+- TypeScript
+- Tailwind CSS 4
+- Conteúdo em `content/*.ts` (sem CMS)
+
+## Desenvolvimento
 
 ```bash
+cd hallefy-next
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm start
+```
 
-## Learn More
+## Deploy na Vercel
 
-To learn more about Next.js, take a look at the following resources:
+1. Crie um repositório só com a pasta `hallefy-next` (ou aponte o root do projeto Vercel para ela).
+2. Importe no [Vercel](https://vercel.com/new) — framework Next.js é detectado automaticamente.
+3. Build command: `next build` / Output: padrão.
+4. Após o deploy, você recebe um domínio `*.vercel.app`.
+5. Quando o DNS de `hallefy.com.br` estiver ativo no Registro.br, adicione o domínio customizado no painel Vercel (A/CNAME conforme as instruções).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Conteúdo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Arquivo | Uso |
+|---------|-----|
+| `content/site.ts` | Textos da home, contatos, galeria |
+| `content/projects.ts` | Cases (`/fernandinho`, `/manchester-city`, etc.) |
+| `public/images/` | Assets copiados do backup WP |
+| `public/fonts/` | Nimbus Sans (woff2) |
 
-## Deploy on Vercel
+Alguns cases estão marcados com `recoveredPartial` — textos reconstruídos a partir do Wayback Machine e fontes públicas, pois o dump MySQL não estava no backup.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Re-extrair textos do Archive
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+node scripts/extract-wayback.mjs /
+node scripts/extract-wayback.mjs /rockinrio/ 20240913100456
+```
+
+## Rotas
+
+- `/` — home (hero, projetos, clientes, sobre, galeria, contato)
+- `/cases` — listagem de cases
+- `/fernandinho`, `/manchester-city`, `/soulphia`, `/rockinrio`, `/incendiarios`

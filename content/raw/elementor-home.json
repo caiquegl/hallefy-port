@@ -1,0 +1,3191 @@
+[
+  {
+    "id": "028a99a",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 1200,
+        "sizes": []
+      },
+      "gap": "no",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "90",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "gradient",
+      "background_color": "#FFFFFF",
+      "background_color_b": "#F9F9F9",
+      "background_gradient_angle": {
+        "unit": "deg",
+        "size": 270,
+        "sizes": []
+      },
+      "padding_laptop": {
+        "unit": "px",
+        "top": "40",
+        "right": "40",
+        "bottom": "40",
+        "left": "40",
+        "isLinked": true
+      },
+      "padding_mobile_extra": {
+        "unit": "px",
+        "top": "40",
+        "right": "20",
+        "bottom": "40",
+        "left": "20",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "7da791b",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "1b311a9",
+            "elType": "section",
+            "settings": {
+              "structure": "20",
+              "layout": "full_width"
+            },
+            "elements": [
+              {
+                "id": "45faf34",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null,
+                  "content_position": "center",
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_inline_size_mobile": 70
+                },
+                "elements": [
+                  {
+                    "id": "e101de4",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "<b>HOME</b>\t",
+                      "title_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus regular",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 24,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "typography_font_size_tablet": {
+                        "unit": "px",
+                        "size": 28,
+                        "sizes": []
+                      },
+                      "typography_font_size_laptop": {
+                        "unit": "em",
+                        "size": "",
+                        "sizes": []
+                      },
+                      "typography_font_size_tablet_extra": {
+                        "unit": "em",
+                        "size": "",
+                        "sizes": []
+                      },
+                      "typography_font_style": "normal",
+                      "_element_id": "home",
+                      "link": {
+                        "url": "hallefy.com.br",
+                        "is_external": "",
+                        "nofollow": "",
+                        "custom_attributes": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "30692ed",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_inline_size_mobile": 30
+                },
+                "elements": [
+                  {
+                    "id": "980272f",
+                    "elType": "widget",
+                    "settings": {
+                      "align_items": "right",
+                      "pointer": "none",
+                      "menu_typography_typography": "custom",
+                      "menu_typography_font_family": "nimbus light",
+                      "menu_typography_font_size": {
+                        "unit": "px",
+                        "size": 19,
+                        "sizes": []
+                      },
+                      "menu_typography_font_weight": "400",
+                      "color_menu_item": "#222222",
+                      "__globals__": {
+                        "color_menu_item_hover": "globals/colors?id=primary"
+                      },
+                      "menu": "base",
+                      "toggle_align": "right",
+                      "_title": "Menu de navegação"
+                    },
+                    "elements": [],
+                    "widgetType": "nav-menu"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "f0eac2b",
+            "elType": "section",
+            "settings": {
+              "structure": "20",
+              "layout": "full_width",
+              "margin": {
+                "unit": "px",
+                "top": "60",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "7497e63",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": 47.083,
+                  "space_between_widgets": 0,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_inline_size_tablet": 60
+                },
+                "elements": [
+                  {
+                    "id": "0900b59",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Hallefy Moraes",
+                      "title_color": "#222222",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Nimbus bold",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 44,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "4f78273",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Gerente de Projetos",
+                      "title_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus regular",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 24,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "typography_font_size_mobile": {
+                        "unit": "px",
+                        "size": 20,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "f140767",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "Trabalhando com marcas de renome nacional, gerindo projetos, campanhas e eventos​​. Colaboro com a dinamização dos processos visando maximização dos resultados, implementando ferramentas que melhoram a visão e o controle do fluxo com métodos que objetivam etapas e suas execuções.\n",
+                      "text_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus light",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 17,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.7,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "32",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "e4d6167",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/Empresas-1.png",
+                        "id": 155,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "-11",
+                        "isLinked": false
+                      },
+                      "_margin_tablet": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "-22",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "-14",
+                        "isLinked": false
+                      },
+                      "motion_fx_translateY_effect": "yes",
+                      "motion_fx_mouseTrack_effect": "yes",
+                      "motion_fx_mouseTrack_direction": "negative",
+                      "motion_fx_mouseTrack_speed": {
+                        "unit": "px",
+                        "size": 0.1,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  },
+                  {
+                    "id": "b256cf5",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2023/01/Empresas-2.png",
+                        "id": 1304,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "-13",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "-8",
+                        "isLinked": false
+                      },
+                      "_margin_tablet": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "-22",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "-14",
+                        "isLinked": false
+                      },
+                      "motion_fx_translateY_effect": "yes",
+                      "motion_fx_mouseTrack_effect": "yes",
+                      "motion_fx_mouseTrack_direction": "negative",
+                      "motion_fx_mouseTrack_speed": {
+                        "unit": "px",
+                        "size": 0.1,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "a2dcd84",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": 52.917
+                },
+                "elements": [],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "6fa6e2d",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 1200,
+        "sizes": []
+      },
+      "gap": "no",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "90",
+        "right": "0",
+        "bottom": "90",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_laptop": {
+        "unit": "px",
+        "top": "40",
+        "right": "40",
+        "bottom": "40",
+        "left": "40",
+        "isLinked": true
+      },
+      "padding_mobile_extra": {
+        "unit": "px",
+        "top": "40",
+        "right": "20",
+        "bottom": "40",
+        "left": "20",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "d2465fd",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "space_between_widgets": 0
+        },
+        "elements": [
+          {
+            "id": "eb2e314",
+            "elType": "widget",
+            "settings": {
+              "image": {
+                "url": "https://hallefy.com.br/wp-content/uploads/2022/10/Sem-Titulo-1-2.png",
+                "id": 745,
+                "alt": "",
+                "source": "library"
+              },
+              "width": {
+                "unit": "%",
+                "size": 100,
+                "sizes": []
+              },
+              "_margin": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "_animation": "none",
+              "motion_fx_tilt_speed": {
+                "unit": "px",
+                "size": 1,
+                "sizes": []
+              },
+              "animation_duration": "slow",
+              "_transform_keep_proportions": "",
+              "_transform_rotateZ_effect_hover": {
+                "unit": "px",
+                "size": 59,
+                "sizes": []
+              },
+              "_transform_translateX_effect_hover": {
+                "unit": "px",
+                "size": 4,
+                "sizes": []
+              },
+              "_transform_scale_effect_hover": {
+                "unit": "px",
+                "size": 0.99,
+                "sizes": []
+              },
+              "_transform_scaleX_effect_hover": {
+                "unit": "px",
+                "size": 0.2,
+                "sizes": []
+              },
+              "_transform_skewX_effect": {
+                "unit": "px",
+                "size": 2,
+                "sizes": []
+              },
+              "_transform_skewY_effect": {
+                "unit": "px",
+                "size": -2,
+                "sizes": []
+              },
+              "_transform_translateY_effect_hover": {
+                "unit": "px",
+                "size": 3,
+                "sizes": []
+              },
+              "_transform_scale_popover_hover": "transform",
+              "_transform_skewX_effect_hover": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              },
+              "_transform_skewY_effect_hover": {
+                "unit": "px",
+                "size": 0,
+                "sizes": []
+              },
+              "image_size": "full"
+            },
+            "elements": [],
+            "widgetType": "image"
+          },
+          {
+            "id": "2a680d8",
+            "elType": "section",
+            "settings": {
+              "layout": "full_width",
+              "gap": "no",
+              "structure": "20",
+              "margin": {
+                "unit": "px",
+                "top": "32",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "margin_mobile": {
+                "unit": "px",
+                "top": "16",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "4a344b9",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "f4f88b0",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/Caito-Maia-CAPA-2.png",
+                        "id": 161,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "16",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "motion_fx_tilt_speed": {
+                        "unit": "px",
+                        "size": 1,
+                        "sizes": []
+                      },
+                      "_animation": "none",
+                      "motion_fx_translateY_effect": "yes",
+                      "motion_fx_blur_direction": "in-out-in",
+                      "motion_fx_rotateZ_direction": "negative",
+                      "motion_fx_scale_direction": "in-out",
+                      "motion_fx_scale_range": {
+                        "unit": "%",
+                        "size": "",
+                        "sizes": {
+                          "start": 16,
+                          "end": 83
+                        }
+                      },
+                      "motion_fx_mouseTrack_direction": "negative",
+                      "motion_fx_mouseTrack_speed": {
+                        "unit": "px",
+                        "size": 0.3,
+                        "sizes": []
+                      },
+                      "motion_fx_tilt_effect": "yes",
+                      "_animation_delay": 300,
+                      "_transform_keep_proportions": "",
+                      "_transform_scale_effect": {
+                        "unit": "px",
+                        "size": 1,
+                        "sizes": []
+                      },
+                      "_transform_scale_popover_hover": "transform",
+                      "_transform_scale_effect_hover": {
+                        "unit": "px",
+                        "size": 0.97,
+                        "sizes": []
+                      },
+                      "_transform_scaleX_effect": {
+                        "unit": "px",
+                        "size": 0.9,
+                        "sizes": []
+                      },
+                      "_transform_scaleY_effect": {
+                        "unit": "px",
+                        "size": 0.9,
+                        "sizes": []
+                      },
+                      "link_to": "custom",
+                      "link": {
+                        "url": "https://hallefy.com.br/caito-maia/",
+                        "is_external": "",
+                        "nofollow": "",
+                        "custom_attributes": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "e9671d1",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "c9abf7d",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/Soulphia-CAPA-3.png",
+                        "id": 162,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "16",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_animation": "none",
+                      "motion_fx_tilt_effect": "yes",
+                      "motion_fx_tilt_speed": {
+                        "unit": "px",
+                        "size": 1,
+                        "sizes": []
+                      },
+                      "_animation_delay": 300,
+                      "_transform_scale_popover_hover": "transform",
+                      "_transform_scale_effect_hover": {
+                        "unit": "px",
+                        "size": 0.97,
+                        "sizes": []
+                      },
+                      "link_to": "custom",
+                      "link": {
+                        "url": "https://hallefy.com.br/soulphia/",
+                        "is_external": "",
+                        "nofollow": "",
+                        "custom_attributes": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "b4d30f7",
+            "elType": "section",
+            "settings": {
+              "layout": "full_width",
+              "gap": "no",
+              "structure": "20",
+              "margin": {
+                "unit": "px",
+                "top": "32",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              },
+              "margin_mobile": {
+                "unit": "px",
+                "top": "16",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "2bde96b",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "2b7a896",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/10/Fernandinho-CAPA-4-1.png",
+                        "id": 750,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "16",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "motion_fx_tilt_effect": "yes",
+                      "motion_fx_tilt_speed": {
+                        "unit": "px",
+                        "size": 1,
+                        "sizes": []
+                      },
+                      "_animation": "none",
+                      "_animation_delay": 300,
+                      "_transform_scale_popover_hover": "transform",
+                      "_transform_scale_effect_hover": {
+                        "unit": "px",
+                        "size": 0.97,
+                        "sizes": []
+                      },
+                      "link_to": "custom",
+                      "link": {
+                        "url": "https://hallefy.com.br/fernandinho/",
+                        "is_external": "",
+                        "nofollow": "",
+                        "custom_attributes": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "44b4348",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null
+                },
+                "elements": [
+                  {
+                    "id": "e847fd0",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/10/Man-City-CAPA.png",
+                        "id": 721,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "16",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "motion_fx_tilt_effect": "yes",
+                      "motion_fx_tilt_speed": {
+                        "unit": "px",
+                        "size": 1,
+                        "sizes": []
+                      },
+                      "_animation": "none",
+                      "_animation_delay": 300,
+                      "_transform_scale_popover_hover": "transform",
+                      "_transform_scale_effect_hover": {
+                        "unit": "px",
+                        "size": 0.97,
+                        "sizes": []
+                      },
+                      "link_to": "custom",
+                      "link": {
+                        "url": "https://hallefy.com.br/cases/manchester-city/",
+                        "is_external": "",
+                        "nofollow": "",
+                        "custom_attributes": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "57a2264",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 1200,
+        "sizes": []
+      },
+      "gap": "no",
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "background_color_b": "#F9F9F9",
+      "background_gradient_angle": {
+        "unit": "deg",
+        "size": 200,
+        "sizes": []
+      },
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "90",
+        "right": "0",
+        "bottom": "90",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_laptop": {
+        "unit": "px",
+        "top": "40",
+        "right": "40",
+        "bottom": "40",
+        "left": "40",
+        "isLinked": true
+      },
+      "padding_mobile_extra": {
+        "unit": "px",
+        "top": "40",
+        "right": "20",
+        "bottom": "40",
+        "left": "20",
+        "isLinked": false
+      },
+      "hide_mobile": "hidden-mobile",
+      "height": "min-height",
+      "custom_height": {
+        "unit": "px",
+        "size": 255,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "eff8fa3",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "space_between_widgets": 0
+        },
+        "elements": [
+          {
+            "id": "96e2a4a",
+            "elType": "section",
+            "settings": {
+              "layout": "full_width"
+            },
+            "elements": [
+              {
+                "id": "28acb7d",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 100,
+                  "_inline_size": null,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "ffc0e21",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "<b>Outros Projetos</b>",
+                      "title_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus light",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 22,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "9194d51",
+            "elType": "section",
+            "settings": {
+              "layout": "full_width",
+              "structure": "40",
+              "margin": {
+                "unit": "px",
+                "top": "32",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "9a55270",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "cf25820",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/10/Escola-do-Criador-CAPA-1.png",
+                        "id": 757,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "16",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_transform_scale_popover_hover": "transform",
+                      "_transform_scale_effect_hover": {
+                        "unit": "px",
+                        "size": 0.97,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "6cd0bd7",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "75b38ad",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/INCENDIARIOS-CAPA-PEQUENA-2.png",
+                        "id": 166,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "8",
+                        "bottom": "0",
+                        "left": "8",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_transform_scale_popover_hover": "transform",
+                      "_transform_scale_effect_hover": {
+                        "unit": "px",
+                        "size": 0.97,
+                        "sizes": []
+                      },
+                      "link_to": "custom"
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "451cc21",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "a7b6fbb",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/Lagoinha-SP-CAPA-PEQUENA-3.png",
+                        "id": 167,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "8",
+                        "bottom": "0",
+                        "left": "8",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_transform_scale_popover_hover": "transform",
+                      "_transform_scale_effect_hover": {
+                        "unit": "px",
+                        "size": 0.97,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "a5a2bd7",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "8b8bdd2",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/Gustavo-Mendes-CAPA-5.png",
+                        "id": 164,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "16",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_transform_scale_popover_hover": "transform",
+                      "_transform_scale_effect_hover": {
+                        "unit": "px",
+                        "size": 0.97,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "a311511",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 1200,
+        "sizes": []
+      },
+      "gap": "no",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "90",
+        "right": "0",
+        "bottom": "90",
+        "left": "0",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "background_color_b": "#F9F9F9",
+      "background_gradient_angle": {
+        "unit": "deg",
+        "size": 270,
+        "sizes": []
+      },
+      "padding_laptop": {
+        "unit": "px",
+        "top": "40",
+        "right": "40",
+        "bottom": "40",
+        "left": "40",
+        "isLinked": true
+      },
+      "padding_mobile_extra": {
+        "unit": "px",
+        "top": "40",
+        "right": "20",
+        "bottom": "40",
+        "left": "20",
+        "isLinked": false
+      },
+      "height": "min-height",
+      "custom_height": {
+        "unit": "px",
+        "size": 640,
+        "sizes": []
+      },
+      "border_radius": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      },
+      "shape_divider_top_color": "#000000FA",
+      "shape_divider_top_width": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+      }
+    },
+    "elements": [
+      {
+        "id": "e38ad3f",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null,
+          "margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "975e805",
+            "elType": "section",
+            "settings": {
+              "structure": "20",
+              "layout": "full_width",
+              "margin": {
+                "unit": "px",
+                "top": "0",
+                "right": 0,
+                "bottom": "0",
+                "left": 0,
+                "isLinked": false
+              },
+              "padding": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": false
+              }
+            },
+            "elements": [
+              {
+                "id": "dd48b09",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": 57.082,
+                  "space_between_widgets": 0,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "62d7a60",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "Sobre mim",
+                      "title_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus regular",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 28,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "600",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "88a060a",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Trabalho com agências e marcas que prezam por seus processos e acreditam no trabalho colaborativo entre equipes.</p><p>Expertise - Implementação e condução de processos em ambientes ágeis, definição de KPI’s e OKR’s, implantação de ferramentas de gestão, frameworks Scrum e Kanban, confecção de reports táticos e estratégicos, acompanhamento de campanhas anuais e always on, mídias on e off, comunicação digital, gestão de influenciadores e produção de conteúdo.</p>",
+                      "text_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus light",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 17,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.7,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "32",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "f5626ae",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<ul><li>Experiência em agências e startups, em diversos produtos e com diversas pessoas.</li><li><span style=\"font-weight: 400;\">Participação rotineira em processos criativos e brainstormings para elaboração de e modelagem de campanhas e apresentações profissionais.</span></li><li><span style=\"font-weight: 400;\">Vivência na rotina publicitária em produções de campanhas, lançamentos, eventos e músicas.</span></li><li>Certificação Scrum Fundamentals Certified - SFC™</li><li>Certificação Scrum Foundation Professional Certification - SFPC™</li></ul>",
+                      "text_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus light",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 17,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.7,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "-24",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  },
+                  {
+                    "id": "ee0ff31",
+                    "elType": "widget",
+                    "settings": {
+                      "view": "inline",
+                      "icon_list": [
+                        {
+                          "text": "Resumo",
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          },
+                          "_id": "472908c",
+                          "link": {
+                            "url": "https://drive.google.com/file/d/1hhE5CnOCXwe8A9mDh2y_-nehN59pKDZy/view?usp=sharing",
+                            "is_external": "on",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                          }
+                        },
+                        {
+                          "text": "LinkedIn",
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          },
+                          "_id": "b2673c3",
+                          "link": {
+                            "url": "https://www.linkedin.com/in/hallefy/",
+                            "is_external": "on",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                          }
+                        }
+                      ],
+                      "text_color": "#159CD5",
+                      "icon_typography_typography": "custom",
+                      "icon_typography_font_family": "nimbus light",
+                      "icon_typography_font_size": {
+                        "unit": "px",
+                        "size": 18,
+                        "sizes": []
+                      },
+                      "icon_typography_font_weight": "400",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "32",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "__globals__": {
+                        "text_color": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "9961dce",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": 42.918,
+                  "space_between_widgets": 0,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "40",
+                    "isLinked": false
+                  },
+                  "margin_mobile": {
+                    "unit": "px",
+                    "top": "32",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "c43f137",
+                    "elType": "widget",
+                    "settings": {
+                      "title": " “Sou movido pelos desafios de dinamizar os processos e maximizar os resultados.”\n",
+                      "title_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus regular",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 24,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "600",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.3,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "-2",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "typography_font_size_tablet": {
+                        "unit": "px",
+                        "size": 20,
+                        "sizes": []
+                      },
+                      "typography_font_size_mobile_extra": {
+                        "unit": "px",
+                        "size": 18,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "fd8dd38",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "Por que? Quando? E, como? São as perguntas que eu mais respondo no dia-dia.\n",
+                      "text_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus light",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 18,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.7,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "typography_font_size_mobile_extra": {
+                        "unit": "px",
+                        "size": 16,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "de8484b",
+    "elType": "section",
+    "settings": [],
+    "elements": [
+      {
+        "id": "c2523e7",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "94da159",
+            "elType": "widget",
+            "settings": [],
+            "elements": [],
+            "widgetType": "image-carousel"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "85f53ed",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 1200,
+        "sizes": []
+      },
+      "gap": "no",
+      "padding": {
+        "unit": "px",
+        "top": "90",
+        "right": "0",
+        "bottom": "90",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_laptop": {
+        "unit": "px",
+        "top": "40",
+        "right": "40",
+        "bottom": "40",
+        "left": "40",
+        "isLinked": true
+      },
+      "padding_mobile_extra": {
+        "unit": "px",
+        "top": "40",
+        "right": "20",
+        "bottom": "40",
+        "left": "20",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "50c42aa",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "c899b54",
+            "elType": "section",
+            "settings": {
+              "layout": "full_width",
+              "structure": "40"
+            },
+            "elements": [
+              {
+                "id": "9eb6644",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "83650cd",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/foto-9.png",
+                        "id": 246,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "1763599",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "299ad8e",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/IMG_8291_2-scaled.jpg",
+                        "id": 177,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "16",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "132fa7b",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "8b00f0f",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/7112721F-9531-4BB6-9B70-891C65697D64-1-scaled.jpg",
+                        "id": 178,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "404ba62",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "40e6eb4",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/IMG_8686-scaled.jpg",
+                        "id": 179,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "16",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "a0af50a",
+            "elType": "section",
+            "settings": {
+              "layout": "full_width",
+              "structure": "40"
+            },
+            "elements": [
+              {
+                "id": "afd9980",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "af5bff4",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/foto-4.png",
+                        "id": 241,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "fec8c1f",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "62a38a6",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/foto-7.png",
+                        "id": 244,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "16",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "636723f",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "e3762fc",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/foto-6.png",
+                        "id": 243,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "6e362bd",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "89488e0",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/05/foto-5.png",
+                        "id": 242,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "3047f7a",
+            "elType": "section",
+            "settings": {
+              "layout": "full_width",
+              "structure": "40"
+            },
+            "elements": [
+              {
+                "id": "17c6217",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "dceaebf",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/08/IMG_8383-teste-4-scaled.jpg",
+                        "id": 489,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding_mobile": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "a93b80c",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "06d75ce",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/10/IMG_2164-Copia.png",
+                        "id": 729,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "16",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "4edfb7c",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "5a62442",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/08/IMG_1880-teste-3-scaled.jpg",
+                        "id": 498,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "db13ad9",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "_inline_size": null,
+                  "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "e2030ec",
+                    "elType": "widget",
+                    "settings": {
+                      "image": {
+                        "url": "https://hallefy.com.br/wp-content/uploads/2022/08/IMG_9697-teste-2.jpg",
+                        "id": 485,
+                        "alt": "",
+                        "source": "library"
+                      },
+                      "width": {
+                        "unit": "%",
+                        "size": 100,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "16",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "image"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2dc223c",
+    "elType": "section",
+    "settings": {
+      "content_width": {
+        "unit": "px",
+        "size": 1200,
+        "sizes": []
+      },
+      "gap": "no",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": 0,
+        "bottom": "0",
+        "left": 0,
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "090",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_laptop": {
+        "unit": "px",
+        "top": "40",
+        "right": "40",
+        "bottom": "40",
+        "left": "40",
+        "isLinked": true
+      },
+      "padding_mobile_extra": {
+        "unit": "px",
+        "top": "40",
+        "right": "20",
+        "bottom": "40",
+        "left": "20",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "60",
+        "right": "20",
+        "bottom": "60",
+        "left": "20",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "e7e9a32",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "_inline_size": null
+        },
+        "elements": [
+          {
+            "id": "13bebaf",
+            "elType": "section",
+            "settings": {
+              "layout": "full_width",
+              "structure": "20"
+            },
+            "elements": [
+              {
+                "id": "c6005fd",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null,
+                  "space_between_widgets": 0,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_inline_size_tablet": 100
+                },
+                "elements": [
+                  {
+                    "id": "8687915",
+                    "elType": "widget",
+                    "settings": {
+                      "title": "contato@hallefy.com.br",
+                      "align": "left",
+                      "title_color": "#292A2C",
+                      "typography_typography": "custom",
+                      "typography_font_family": "nimbus regular",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 28,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "600",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "__globals__": {
+                        "title_color": "",
+                        "typography_typography": ""
+                      },
+                      "link": {
+                        "url": "mailto:contato@hallefy.com.br",
+                        "is_external": "",
+                        "nofollow": "",
+                        "custom_attributes": ""
+                      },
+                      "typography_font_size_mobile": {
+                        "unit": "px",
+                        "size": 23.5,
+                        "sizes": []
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "heading"
+                  },
+                  {
+                    "id": "9125603",
+                    "elType": "widget",
+                    "settings": {
+                      "view": "inline",
+                      "icon_list": [
+                        {
+                          "text": "Resumo",
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          },
+                          "_id": "472908c",
+                          "link": {
+                            "url": "https://drive.google.com/file/d/1hhE5CnOCXwe8A9mDh2y_-nehN59pKDZy/view?usp=sharing",
+                            "is_external": "on",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                          }
+                        },
+                        {
+                          "text": "LinkedIn",
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          },
+                          "_id": "b2673c3",
+                          "link": {
+                            "url": "https://www.linkedin.com/in/hallefy/",
+                            "is_external": "on",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                          }
+                        },
+                        {
+                          "text": "Instagram",
+                          "selected_icon": {
+                            "value": "",
+                            "library": ""
+                          },
+                          "_id": "42b5b9e",
+                          "link": {
+                            "url": "https://www.instagram.com/hallefyyy/",
+                            "is_external": "on",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                          }
+                        }
+                      ],
+                      "text_color": "#159CD5",
+                      "icon_typography_typography": "custom",
+                      "icon_typography_font_family": "nimbus light",
+                      "icon_typography_font_size": {
+                        "unit": "px",
+                        "size": 18,
+                        "sizes": []
+                      },
+                      "icon_typography_font_weight": "400",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "32",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "__globals__": {
+                        "text_color": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-list"
+                  },
+                  {
+                    "id": "d5ebe21",
+                    "elType": "widget",
+                    "settings": {
+                      "editor": "<p>Todos os direitos reservados 2023 - Hallefy Moraes</p>",
+                      "text_color": "#444444",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Montserrat",
+                      "typography_font_size": {
+                        "unit": "px",
+                        "size": 16,
+                        "sizes": []
+                      },
+                      "typography_font_weight": "400",
+                      "typography_line_height": {
+                        "unit": "em",
+                        "size": 1.7,
+                        "sizes": []
+                      },
+                      "_margin": {
+                        "unit": "px",
+                        "top": "140",
+                        "right": "0",
+                        "bottom": "-19",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "typography_font_size_mobile": {
+                        "unit": "px",
+                        "size": 12,
+                        "sizes": []
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "140",
+                        "right": "100",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "text-editor"
+                  }
+                ],
+                "isInner": true
+              },
+              {
+                "id": "e5260dd",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "_inline_size": null,
+                  "content_position": "bottom",
+                  "space_between_widgets": 0,
+                  "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_inline_size_tablet": 100
+                },
+                "elements": [
+                  {
+                    "id": "e00e010",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-angle-up",
+                        "library": "fa-solid"
+                      },
+                      "align": "right",
+                      "primary_color": "#666666",
+                      "_margin": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "-17",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_padding": {
+                        "unit": "px",
+                        "top": "0",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_tablet": {
+                        "unit": "px",
+                        "top": "-40",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_margin_mobile": {
+                        "unit": "px",
+                        "top": "-61",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                      },
+                      "_transform_rotateZ_effect_laptop": {
+                        "unit": "px",
+                        "size": -5,
+                        "sizes": []
+                      },
+                      "_transform_rotate_3d": "yes",
+                      "link": {
+                        "url": "#home",
+                        "is_external": "",
+                        "nofollow": "",
+                        "custom_attributes": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon"
+                  }
+                ],
+                "isInner": true
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]
